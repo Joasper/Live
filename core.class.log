@@ -1,0 +1,291 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493961317@s.whatsapp.net',
+    fromMe: false,
+    id: '11CEC34AFED35FD8E3',
+    participant: undefined
+  },
+  messageTimestamp: 1705273815,
+  pushName: 'Ashley Zahivis',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage { text: 'Hola', contextInfo: [ContextInfo] },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '18493961317'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0eaee2ee-c722-41d3-9614-6f16aabb22a8',
+  keyword: 'key_4966c36d-349d-4b3e-89ee-4d652ee931e6',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c33670bb079d084abd9ef14b530ecb60'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec398c56-4fab-4b9c-8437-201923892cbd',
+  keyword: 'ans_0eaee2ee-c722-41d3-9614-6f16aabb22a8',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f7637a5e87cef8697a3009fcde8df73'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '18493961317@s.whatsapp.net',
+    fromMe: false,
+    id: '9B30DD4D8EFF5642BF',
+    participant: undefined
+  },
+  messageTimestamp: 1705273838,
+  pushName: 'Ashley Zahivis',
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '83DJ-3829-3JD9-39CM',
+      contextInfo: [ContextInfo]
+    },
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '83DJ-3829-3JD9-39CM',
+  from: '18493961317'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01F38467DFB82F484A5',
+    participant: undefined
+  },
+  messageTimestamp: 1705274148,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573178638005'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0eaee2ee-c722-41d3-9614-6f16aabb22a8',
+  keyword: 'key_4966c36d-349d-4b3e-89ee-4d652ee931e6',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c33670bb079d084abd9ef14b530ecb60'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec398c56-4fab-4b9c-8437-201923892cbd',
+  keyword: 'ans_0eaee2ee-c722-41d3-9614-6f16aabb22a8',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f7637a5e87cef8697a3009fcde8df73'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03EE1CB776D445502FB',
+    participant: undefined
+  },
+  messageTimestamp: 1705274173,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: 'SOy madre soltera de mexico puedo entrar quien esta a cargo como se llama el lider',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'SOy madre soltera de mexico puedo entrar quien esta a cargo como se llama el lider',
+  from: '573178638005'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB08D823F3CE585CD3CA9',
+    participant: undefined
+  },
+  messageTimestamp: 1705274256,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573178638005'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB00EA941905377E2CF9C',
+    participant: undefined
+  },
+  messageTimestamp: 1705274282,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: 'si',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'si',
+  from: '573178638005'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB01DF55DE8C036AA11F2',
+    participant: undefined
+  },
+  messageTimestamp: 1705274319,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: 'r10cre@gmail.com',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'r10cre@gmail.com',
+  from: '573178638005'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB081CF3913EE3E50EEB9',
+    participant: undefined
+  },
+  messageTimestamp: 1705274338,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: 'como hago para engordar con livegood',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como hago para engordar con livegood',
+  from: '573178638005'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_0eaee2ee-c722-41d3-9614-6f16aabb22a8',
+  keyword: 'key_4966c36d-349d-4b3e-89ee-4d652ee931e6',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: 'c33670bb079d084abd9ef14b530ecb60'
+}
+[QUEUE_SE_ENVIO]:  {
+  ref: 'ans_ec398c56-4fab-4b9c-8437-201923892cbd',
+  keyword: 'ans_0eaee2ee-c722-41d3-9614-6f16aabb22a8',
+  answer: '__call_action__',
+  options: {
+    media: null,
+    buttons: [],
+    capture: false,
+    child: null,
+    delay: 0,
+    idle: null,
+    ref: null,
+    nested: [],
+    keyword: {},
+    callback: true
+  },
+  refSerialize: '0f7637a5e87cef8697a3009fcde8df73'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573178638005@s.whatsapp.net',
+    fromMe: false,
+    id: '3EB03735EB856924945FAA',
+    participant: undefined
+  },
+  messageTimestamp: 1705274360,
+  pushName: 'Ricardo Ⓡ',
+  broadcast: false,
+  message: Message {
+    conversation: 'como hago para engordar con livegood',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'como hago para engordar con livegood',
+  from: '573178638005'
+}
