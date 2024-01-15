@@ -20,7 +20,7 @@ const welcomeIAflow = addKeyword([EVENTS.WELCOME, EVENTS.VOICE_NOTE])
 )
 .addAction(async(ctx, ctxFn) => {
   const currentState = ctxFn.state.getMyState();
-  const BOT_STATIC_MESSAGE = "Me presento soy un BOT Oficial de LIVEGOOD 🤖 Funcionó con Inteligencia Artificial, preguntame lo que quieras y te ayudaré a ganar con Livegood ¿En qué puedo ayudarte hoy?"
+  const BOT_STATIC_MESSAGE = "Me presento soy un BOT de Interactive Latin System de LIVEGOOD 🤖 Funcionó con Inteligencia Artificial, preguntame lo que quieras y te ayudaré a ganar con Livegood ¿En qué puedo ayudarte hoy?"
   await typing(ctx, ctxFn.provider)
   const plugin = ctxFn.extensions.employeesAddon
   await typing(ctx, ctxFn.provider)
